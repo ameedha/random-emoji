@@ -1,0 +1,35 @@
+body{
+margin:0;
+display:flex;
+min-height: 100vh;
+justify-content: center;
+align-items: center;
+background-color:rgb(240, 159, 240);
+color: azure;
+
+}
+h2{
+    font-size: 75px;
+    
+}
+
+.btn{
+    font-size: 5rem;
+    border-radius: 10px;
+    border: none;
+    margin-left: 150px;
+    cursor:pointer;
+    background-color: rgb(255,255,255,.2);
+   
+    transition: filter .2s ease-in-out;
+    color: aliceblue;
+
+}
+
+.name{
+    font-size: 25px;
+    font-weight: 1000;
+    color: blue;
+    margin-left: 120px;
+
+}
